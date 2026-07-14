@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_class_dataset",
+  "source_file": "utl-altair-slc-proc-python-a-better-way-to-read-and-write-sas-and-wpd-datasets.sas",
+  "source_blob_sha": "70c326bf2543fd4b75e10c32c4a890c9ca147405",
+  "source_commit": "594068645b78ef75cd65627cc186d3a611a76847",
+  "notes": "Portable core of the write-up: the DATA step that builds the 7-obs class dataset (validvarname=upcase, informat/input, cards4 inline data) plus a PROC PRINT. Redirected the libname from d:/wpswrkx to WORK and dropped the Altair-SLC-specific PROC PYTHON round-trip blocks. Output matches the documented WORKX.STUDENTS listing."
+}

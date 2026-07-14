@@ -1,0 +1,11 @@
+
+  Obs     NAME  SEX  AGE  HEIGHT  WEIGHT
+-----  -------  ---  ---  ------  ------
+    1  Alfred   M     14      69   112.5
+    2  Alice    F     13    56.5      84
+    3  Barbara  F     13    65.3      98
+    4  Carol    F     14    62.8   102.5
+    5  Ronald   M     15      67     133
+    6  Thomas   M     11    57.5      85
+    7  William  M     15    66.5     112
+

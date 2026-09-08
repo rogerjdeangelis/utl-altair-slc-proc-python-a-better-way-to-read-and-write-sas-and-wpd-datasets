@@ -9,9 +9,6 @@ Altair slc proc python a better way to read and write sas and wpd datasets
     Too long to post on a list, see github
     https://github.com/rogerjdeangelis/utl-altair-slc-proc-python-a-better-way-to-read-and-write-sas-and-wpd-datasets
 
-    I was surprised to find out that the most recent version of python, 3.14,
-      CAN convert panda dataframes to sas datasets.
-
     The latest python, 3.14, CANNOT convert sas datasets to panda dataframes, THIS NOT A SERIOUS PROBLEM because
     we have a very flexible python package that can read sas datasets and create a panda dataframes.
     Only python 3.10 with specific numpy and pandas can both read and write sas datasets?
